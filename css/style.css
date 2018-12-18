@@ -78,3 +78,29 @@ body{
 	margin-top:15px;
 	white-space:nowrap;
 }
+.thumbs_style
+{
+	display:inline-block;
+}
+
+.thumbs_style img
+{
+	width:105px;
+	height:80px;
+	border-radius:3px;
+	border:3px solid rgba(0,0,0,0.4);
+}
+
+.gallery_img_style
+{
+	width:845px;
+	height:500px;
+	border-radius:3px;
+	position:absolute;
+}
+
+
+
+
+
+
